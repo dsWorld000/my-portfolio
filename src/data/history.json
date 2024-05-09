@@ -1,0 +1,32 @@
+[
+    {
+      "role": "Software Engineer",
+      "future": "future goals.",
+      "organisation": "Google",
+      "startDate": "Sept, 2026",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "UI Designer",
+      "future": "future goals.",
+      "organisation": "Mirosoft",
+      "startDate": "Aug, 2025",
+      "endDate": "Aug, 2026",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "SWE Intern",
+      "future": "future goals.",
+      "organisation": "Netflix",
+      "startDate": "Apr, 2024",
+      "endDate": "Jun, 2024",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
