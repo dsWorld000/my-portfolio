@@ -30,5 +30,13 @@
     "skills": ["JavaScript", "locomotive", "gsap", "SwiperJS"],
     "demo": "https://make-ds-bcci.netlify.app/",
     "source": "https://github.com/dsWorld000"
+  },
+  {
+    "title": "Spotify Clone",
+    "imageSrc": "projects/Spotify.PNG",
+    "description": "Build Complete Music Website Using ReactJS.",
+    "skills": [ "React", "Context API", "Tailwind CSS"],
+    "demo": "https://spotify-clone-eosin-five.vercel.app/",
+    "source": "https://github.com/dsWorld000"
   }
 ]
