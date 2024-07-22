@@ -16,6 +16,14 @@
       "imageSrc": "skills/react.png"
     },
     {
+      "title": "Git",
+      "imageSrc": "skills/git.webp"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/gitHub-logo.png"
+    },
+    {
       "title": "Tailwind",
       "imageSrc": "skills/tailwind3.png"
     },
