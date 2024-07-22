@@ -26,7 +26,7 @@ const About = () => {
                 <img src={getImageUrl("about/serverIcon.png")} alt="" />
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
-                    <h4 className={styles.not_achive}>( This target is not achieved )</h4>
+                    <h4 className={styles.not_achive}>( I know little about it )</h4>
                     <p>
                     I have experience developing fast and optimised back-end systems
                 and APIs
@@ -37,7 +37,7 @@ const About = () => {
             <img src={getImageUrl("about/uilIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
-              <h4 className={styles.not_achive}>( I know little about it )</h4>
+              {/* <h4 className={styles.not_achive}>( I know little about it )</h4> */}
               <p>
                 I have designed multiple landing pages and have created design
                 systems as well
