@@ -4,7 +4,7 @@
     "imageSrc": "projects/tomato-img.jpg",
     "description": "This is a food ordering website/app, using vite@latest.",
     "skills": ["React", "Router", "JavaScript"],
-    "demo": "https://bhojanaalay.netlify.app/",
+    "demo": "https://food-delivery-app-six-theta.vercel.app/",
     "source": "https://github.com/dsWorld000"
   },
   {
