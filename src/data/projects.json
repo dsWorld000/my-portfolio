@@ -2,17 +2,25 @@
   {
     "title": "Food Delivery",
     "imageSrc": "projects/tomato-img.jpg",
-    "description": "This is a food ordering website/app, using vite@latest.",
+    "description": "This is a Food Ordering website/app, Using vite@latest.",
     "skills": ["React", "Router", "JavaScript"],
     "demo": "https://food-delivery-app-six-theta.vercel.app/",
     "source": "https://github.com/dsWorld000"
   },
   {
-    "title": "Netflix Clone",
-    "imageSrc": "projects/netflix-img2.jpg",
-    "description": "Full Stack Netflix Clone.",
-    "skills": ["React Js", "Firebase as Backend", "Tmdb-api"],
-    "demo": "https://netflix-clone-lemon-gamma.vercel.app/",
+    "title": "Cactus Planting",
+    "imageSrc": "projects/cactus-thumbnail.png",
+    "description": "Responsive design ensuring compatibility across devices, Clean and modern UI/UX",
+    "skills": ["React Js", "Redux"],
+    "demo": "https://cactus-plants.vercel.app/",
+    "source": "https://github.com/dsWorld000"
+  },
+  {
+    "title": "CryptoPrice Tracker",
+    "imageSrc": "projects/crpo-thumbnail.png",
+    "description": "Real-time Data Integration, User-Friendly Interface",
+    "skills": ["React Js", "API", "Data-management"],
+    "demo": "https://crypto-price-tracker-pi.vercel.app/",
     "source": "https://github.com/dsWorld000"
   },
   {
@@ -26,7 +34,7 @@
   {
     "title": "BCCI Space Center",
     "imageSrc": "projects/bcci-img.jpg",
-    "description": "This is a animation project, put lot's of functionality.",
+    "description": "This is a Animation Project, put lot's of Functionality.",
     "skills": ["JavaScript", "locomotive", "gsap", "SwiperJS"],
     "demo": "https://make-ds-bcci.netlify.app/",
     "source": "https://github.com/dsWorld000"
@@ -37,6 +45,14 @@
     "description": "Build Complete Music Website Using ReactJS.",
     "skills": [ "React", "Context API", "Tailwind CSS"],
     "demo": "https://spotify-clone-eosin-five.vercel.app/",
+    "source": "https://github.com/dsWorld000"
+  },
+  {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix-img2.jpg",
+    "description": "Full Stack Netflix Clone.",
+    "skills": ["React Js", "API", "Firebase as Backend"],
+    "demo": "https://netflix-clone-lemon-gamma.vercel.app/",
     "source": "https://github.com/dsWorld000"
   }
 ]
